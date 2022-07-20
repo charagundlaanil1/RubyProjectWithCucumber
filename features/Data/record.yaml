@@ -1,9 +1,15 @@
 record1:
   username: selenium
   password: selenium
+  trip_type: oneway
+  number_of_passengers: 3
 record2:
   username: tutorial
   password: tutorial
+  trip_type: roundtrip
+  number_of_passengers: 4
 record3:
   username: selenium
   password: selenium
+  trip_type: oneway
+  number_of_passengers: 5
